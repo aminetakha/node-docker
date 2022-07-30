@@ -1,0 +1,12 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aminetakha/node-docker.git",
+  "author": "Amine <takhajr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
